@@ -1,1 +1,2 @@
-# Using-Python-to-send-Phishing-Emails
+# Python
+Using Python to sending phishing emails
