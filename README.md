@@ -1,2 +1,2 @@
 # Python
-Using Python to sending phishing emails
+Using Python to send phishing emails
